@@ -9,8 +9,7 @@
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp; 
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 
-- 🌐  Frontend:  Vue &nbsp;<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height=20 /></code>&nbsp;
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height=20 /></code>
+- 🌐  Frontend:  Vue，TypeScript，React
 - 🛢  Database:  MySQL，Redis
 - 📱  Mobile:  iOS
 - ⚙️  VCS:   ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
@@ -26,7 +25,7 @@ Github，Gitlab，Markdown
 - :mailbox: &nbsp;Connect with me on myprivatecloud@163.com
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :office: &nbsp;I'm currently working at **BOS** &nbsp;🏦
-- :seedling: &nbsp;I’m currently learning React <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height=20 /></code>
+- :seedling: &nbsp;I’m currently learning React
 
 - 💼 Used to work at <code>Alibaba</code>&nbsp;&nbsp;<code>Xkool</code>
 
