@@ -22,7 +22,7 @@ Github，Gitlab，Markdown
 
 - :mailbox: &nbsp;Connect with me on myprivatecloud@163.com
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :office: &nbsp;I'm currently working at **[84.51°]**
+- :office: &nbsp;I'm currently working at **BOS 🏦**
 - :seedling: &nbsp;I’m currently learning **React**
 
 <img
